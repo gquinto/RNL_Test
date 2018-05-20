@@ -1,0 +1,12 @@
+2018-05-20 15:05:35,303 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 15:05:38,107 INFO  [Logs] Instantiate browser - chrome 
+2018-05-20 15:05:50,258 INFO  [Logs] Navigate to URL - https://www.ruffalonl.com/ 
+2018-05-20 15:05:51,385 INFO  [Logs] Maximized the browser 
+2018-05-20 15:05:51,461 INFO  [Logs] Hover to Student Success 
+2018-05-20 15:05:52,064 INFO  [Logs] Take a screenshot 
+2018-05-20 15:13:53,793 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 15:13:56,642 INFO  [Logs] Instantiate browser - chrome 
+2018-05-20 15:14:10,682 INFO  [Logs] Navigate to URL - https://www.ruffalonl.com/ 
+2018-05-20 15:14:11,812 INFO  [Logs] Maximized the browser 
+2018-05-20 15:14:11,888 INFO  [Logs] Hover to Student Success 
+2018-05-20 15:14:12,485 INFO  [Logs] Take a screenshot 
