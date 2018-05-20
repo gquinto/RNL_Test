@@ -10,3 +10,9 @@
 2018-05-20 15:14:11,812 INFO  [Logs] Maximized the browser 
 2018-05-20 15:14:11,888 INFO  [Logs] Hover to Student Success 
 2018-05-20 15:14:12,485 INFO  [Logs] Take a screenshot 
+2018-05-20 15:17:40,310 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 15:17:43,153 INFO  [Logs] Instantiate browser - chrome 
+2018-05-20 15:17:55,913 INFO  [Logs] Navigate to URL - https://www.ruffalonl.com/ 
+2018-05-20 15:17:57,032 INFO  [Logs] Maximized the browser 
+2018-05-20 15:17:57,108 INFO  [Logs] Hover to Student Success 
+2018-05-20 15:17:57,707 INFO  [Logs] Take a screenshot 
