@@ -1,5 +1,8 @@
 package actionModule;
 
+
+
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
@@ -17,20 +20,25 @@ import utility.Constant;
 public class LaunchBrowser extends utility.PageUtil{
 
 	public static WebDriver driver = null;
-	public static void Execute(String Browser) throws Exception {
+	public static void Execute() throws MalformedURLException{
 
 		DOMConfigurator.configure("log4j.xml");
 		Log.info("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		
+		String Browser = Constant.browser;
+		
 		if (Browser.equalsIgnoreCase("chrome")) {
 			System.setProperty("webdriver.chrome.driver", Constant.Path_Chromedriver);
 			  driver = new ChromeDriver();
+			  Constant.driver = driver;
 		  } else if (Browser.equalsIgnoreCase("ie")) {
 			  System.setProperty("webdriver.ie.driver", Constant.Path_IEdriver);
 			  driver = new InternetExplorerDriver();
+			  Constant.driver = driver;
 		  } else if (Browser.equalsIgnoreCase("firefox")) {
 			  System.setProperty("webdriver.gecko.driver", Constant.Path_Geckodriver);
-			  driver =new FirefoxDriver();
+			  driver = new FirefoxDriver();
+			  Constant.driver = driver;
 		  } else if (Browser.equalsIgnoreCase("chrome_grid")) { 
 			  
 			  DesiredCapabilities capability = DesiredCapabilities.chrome();
@@ -60,15 +68,15 @@ public class LaunchBrowser extends utility.PageUtil{
 		
 		
 		
-		Constant.browser=Browser;	
-     	Constant.driver = driver;
+			
+     	//Constant.driver = driver;
      	Log.info("Instantiate browser - " + Constant.browser);
      	     	
-     	driver.manage().timeouts().pageLoadTimeout(30L, TimeUnit.SECONDS);
-     	driver.manage().timeouts().implicitlyWait(20L, TimeUnit.SECONDS);
+     	Constant.driver.manage().timeouts().pageLoadTimeout(30L, TimeUnit.SECONDS);
+     	Constant.driver.manage().timeouts().implicitlyWait(20L, TimeUnit.SECONDS);
      	Constant.driver.get(Constant.url);
      	Log.info("Navigate to URL - " + Constant.url);
-     	driver.manage().window().maximize();
+     	Constant.driver.manage().window().maximize();
 		Log.info("Maximized the browser");
 	}
 	

@@ -10,7 +10,7 @@ public class Constant {
 	public static WebDriver driver;
 	
 	public static String url = "https://www.ruffalonl.com/";
-	public static String browser;
+	public static String browser = "chrome_grid";
 	
 	
 	

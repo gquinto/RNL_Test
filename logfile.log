@@ -63,3 +63,39 @@
 2018-05-20 19:04:44,695 INFO  [Logs] Instantiate browser - chrome_grid 
 2018-05-20 19:04:58,507 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 2018-05-20 19:05:01,870 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 19:10:47,957 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 19:10:52,610 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 19:46:02,714 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 19:46:06,290 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:14:30,185 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:14:33,216 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:19:09,562 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:19:12,936 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:20:24,374 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:20:27,920 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:27:06,617 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:27:09,678 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:34:04,577 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:34:08,097 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:36:55,354 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:36:58,287 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:37:57,371 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:38:00,488 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:48:50,007 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:48:53,061 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:54:39,859 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:55:20,517 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:56:14,195 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 20:56:17,230 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 20:56:30,962 INFO  [Logs] Navigate to URL - https://www.ruffalonl.com/ 
+2018-05-20 20:56:32,107 INFO  [Logs] Maximized the browser 
+2018-05-20 20:56:32,203 INFO  [Logs] Hover to Student Success 
+2018-05-20 20:56:33,243 INFO  [Logs] Take a screenshot 
+2018-05-20 21:16:38,856 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 21:16:41,922 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 21:17:32,421 INFO  [Logs] +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2018-05-20 21:17:35,819 INFO  [Logs] Instantiate browser - chrome_grid 
+2018-05-20 21:17:46,313 INFO  [Logs] Navigate to URL - https://www.ruffalonl.com/ 
+2018-05-20 21:17:47,531 INFO  [Logs] Maximized the browser 
+2018-05-20 21:17:47,655 INFO  [Logs] Hover to Student Success 
+2018-05-20 21:17:48,515 INFO  [Logs] Take a screenshot 
