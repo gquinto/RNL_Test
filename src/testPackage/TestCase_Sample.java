@@ -10,7 +10,7 @@ public class TestCase_Sample {
 		
 		
 		
-		LaunchBrowser.Execute("chrome");		
+		LaunchBrowser.Execute("chrome_grid");		
 		MenuHeader.Hover("Student Success");
 		
 		
